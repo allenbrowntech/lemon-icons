@@ -1,0 +1,14 @@
+{
+  "name": "@allenbrowntech/lemon-icons",
+  "version": "1.0.0",
+  "description": "Beautiful SVG Icons",
+  "license": "MIT",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allenbrowntech/lemon-icons"
+  },
+  "dependencies": {
+    "coffee-script": "1.12.7"
+  }
+}
