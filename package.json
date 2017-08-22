@@ -1,6 +1,6 @@
 {
   "name": "@allenbrowntech/lemon-icons",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Beautiful SVG Icons",
   "license": "MIT",
   "main": "src/main.js",
